@@ -1,0 +1,13 @@
+//exrtends =css 재사용 , %사용
+//공통적인 코드를 작성, 각각에 필요한 코드를 작성가능
+%button {
+    font-family: inherit;
+    border-radius: 7px;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    background-color: goldenrod;
+    color: wheat;
+    font-weight: 500;
+}
+
